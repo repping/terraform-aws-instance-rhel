@@ -34,7 +34,4 @@ The key's randomart image is:
 
 3. Run `terraform apply`
 
-4. Connect to the instance with:
-```
-ssh -i <your_ssh_priv_key> ec2-user@<public_ip>
-```
+4. The Terraform output will tell you how to connect to the instance, this will be displayed after running `terraform apply`.
