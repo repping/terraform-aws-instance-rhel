@@ -63,3 +63,4 @@ subscription-manager clean
 ```
 
 7. Clean up the deployment with: `terraform destroy`.
+8. 
